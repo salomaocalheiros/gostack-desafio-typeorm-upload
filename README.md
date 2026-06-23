@@ -1,8 +1,8 @@
-﻿# Gostack Desafio Typeorm Upload
+# Gostack Desafio Typeorm Upload
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 
-> RepositÃ³rio do projeto **Gostack Desafio Typeorm Upload**.
+> Repositório do projeto **Gostack Desafio Typeorm Upload**.
 
 ## Tecnologias
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Node.js 18+ e npm
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/gostack-desafio-typeorm-upload.git
@@ -22,7 +22,7 @@ cd gostack-desafio-typeorm-upload
 npm install
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 npm start
@@ -53,14 +53,15 @@ gostack-desafio-typeorm-upload/
 ├── ormconfig.json
 ├── package.json
 ├── prettier.config.js
+├── README.md
 ├── tsconfig.json
 └── yarn.lock
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
